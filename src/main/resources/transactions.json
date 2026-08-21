@@ -1,0 +1,17 @@
+[ {
+  "transactionNumber" : 1,
+  "cardNumber" : "0000236588888889",
+  "amount" : 400,
+  "currency" : "UAH",
+  "dayTime" : "2026-08-01T14:15:10",
+  "purpose" : "payment for goods",
+  "status" : "completed"
+}, {
+  "transactionNumber" : 2,
+  "cardNumber" : "12645078941234567",
+  "amount" : 1200,
+  "currency" : "USD",
+  "dayTime" : "2026-04-01T18:15:10",
+  "purpose" : "payment for service",
+  "status" : "failed"
+} ]
