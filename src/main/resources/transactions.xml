@@ -1,0 +1,20 @@
+<ArrayList>
+  <item>
+    <transactionNumber>1</transactionNumber>
+    <cardNumber>0000236588888889</cardNumber>
+    <amount>1780</amount>
+    <currency>UAH</currency>
+    <dayTime>2026-08-01T14:15:10</dayTime>
+    <purpose>payment for goods</purpose>
+    <status>completed</status>
+  </item>
+  <item>
+    <transactionNumber>2</transactionNumber>
+    <cardNumber>5555236588888889</cardNumber>
+    <amount>800</amount>
+    <currency>USD</currency>
+    <dayTime>2026-08-01T14:12:35</dayTime>
+    <purpose>payment for service</purpose>
+    <status>failed</status>
+  </item>
+</ArrayList>

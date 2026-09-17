@@ -1,0 +1,15 @@
+---
+- transactionNumber: 1
+  cardNumber: "0000236588888889"
+  amount: 1000
+  currency: "UAH"
+  dayTime: "2026-08-01T14:15:10"
+  purpose: "payment for goods"
+  status: "completed"
+- transactionNumber: 2
+  cardNumber: "5555236588888889"
+  amount: 18450
+  currency: "USD"
+  dayTime: "2026-08-01T14:12:35"
+  purpose: "payment for service"
+  status: "failed"
